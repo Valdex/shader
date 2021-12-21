@@ -28,7 +28,7 @@ const vec2 CENTER_COORD = vec2(0.5, 0.5);
 //SKIN BORDER
 float RADIUS = 0.488;
 float BORDER = 0.02;
-float SOFTNESS = 0.005;
+float SOFTNESS = 0.5;
 const float eps = 0.03;
 
 // determine cell type by alpha
