@@ -26,7 +26,7 @@ uniform float u_time;
 const vec2 CENTER_COORD = vec2(0.5, 0.5);
 
 //SKIN BORDER
-float RADIUS = 0.488 + sin(u_time);
+float RADIUS = 0.488 + (sin(u_time)/100.0)-0.1;
 float BORDER = 0.02;
 float SOFTNESS = 0.05;
 const float eps = 0.03;
