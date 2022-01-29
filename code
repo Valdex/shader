@@ -1,0 +1,15 @@
+b!embed {
+    "content": "",
+    "embed": {
+        "title": ":tada: ",
+        "description": "<a:tadahype:435177763767582740><a:PB_santadance:791321876101988353><a:CH_Tada:733986799160000562><a:YattaDanceA:537965432687165440><a:YattaDanceB:537965433001607169> <:Ainsley:670415690116628520>",
+        "color": 4321431,
+        "timestamp": "2022-01-29T22:13:38.782Z",
+        "url": "https://discord.com",
+        "author": {
+            "name": "Author name",
+            "url": "https://discord.com",
+            "icon_url": "https://unsplash.it/100"
+        }
+    }
+}
